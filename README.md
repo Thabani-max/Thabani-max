@@ -17,11 +17,11 @@ Welcome to my GitHub profile! I'm a software developer focused on creating effic
 ![VSCode](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFCXQqyIvHzgP2znt6ifkqAPf1bg0bsj98GH9lzzlMvw&s)
 
 ## 🌟 **Featured projects**
-[News Application](https://github.com/Thabani-max/News-Application-consolidation): Dockerized News Application that utilizes user authentication and authorization. Users register as one of three user typed (Editor, Journalist, or Reader). Each user has role based functionalities, for example a journalist user can create, update, delete and publish delete articles and newsleters.
+- [News Application](https://github.com/Thabani-max/News-Application-consolidation): Dockerized News Application that utilizes user authentication and authorization. Users register as one of three user typed (Editor, Journalist, or Reader). Each user has role based functionalities, for example a journalist user can create, update, delete and publish delete articles and newsletters.
 - [eCommerce](): eCommerce application that utilizes user authentication and authorization. Users register as one of two users (vendor, or buyer). Each user has role based functionalities, for example a buyer can add products to their cart and checkout the cart to order the product/s.
 
 ## 📈 **GitHub Stats**
-- [My GitHub Stats](https://github.com/Thabani-max)
+[My GitHub Stats](https://github.com/Thabani-max)
 
 ## 👥 **Let's Connect!**
 I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out to me!
