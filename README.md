@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a software developer focused on creating effic
 - [eCommerce](): eCommerce application that utilizes user authentication and authorization. Users register as one of two users (vendor, or buyer). Each user has role based functionalities, for example a buyer can add products to their cart and checkout the cart to order the product/s.
 
 ## 📈 **GitHub Stats**
-![My GitHub Stats](https://github.com/Thabani-max)
+- [My GitHub Stats](https://github.com/Thabani-max)
 
 ## 👥 **Let's Connect!**
 I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out to me!
