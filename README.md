@@ -28,4 +28,4 @@ Welcome to my GitHub profile! I'm a software developer focused on creating effic
 ## 👥 **Let's Connect!**
 I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out to me!
 
-[LinkedIn](https://www.linkedin.com/in/thabani-myeza-92b08439b) | [Portfolio](https://www.hyperiondev.com/portfolio/TM26010019623/) | [Email](https://mail.google.com/myezat05@gmail.com/)
+[LinkedIn](https://www.linkedin.com/in/thabani-myeza-92b08439b) | [Portfolio](https://www.hyperiondev.com/portfolio/TM26010019623/) | [Email](mailto:name@example.com)
