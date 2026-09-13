@@ -19,8 +19,8 @@ Welcome to my GitHub profile! I'm a software developer focused on creating effic
 ![VSCode](https://img.icons8.com/?size=96&id=0OQR1FYCuA9f&format=png)
 
 ## 🌟 **Featured projects**
-- [News Application](https://github.com/Thabani-max/News-Application-consolidation): Dockerized News Application that utilizes user authentication and authorization. Users register as one of three user typed (Editor, Journalist, or Reader). Each user has role based functionalities, for example a journalist user can create, update, delete and publish delete articles and newsletters.
-- [eCommerce Application](https://github.com/Thabani-max/online_shopping.git): eCommerce application that utilizes user authentication and authorization. Users register as one of two users (vendor, or buyer). Each user has role based functionalities, for example a buyer can add products to their cart and checkout the cart to order the product/s.
+- [News Application](https://github.com/Thabani-max/News-Application-consolidation): Dockerized News Application that utilizes user authentication and authorization. Users register as one of three user types(Editor, Journalist, or Reader). Each user has role based functionalities, for instance a journalist user can create, update, delete and publish articles and newsletters.
+- [eCommerce Application](https://github.com/Thabani-max/online_shopping.git): eCommerce application that utilizes user authentication and authorization. Users register as one of two user types(vendor, or buyer). Each user has role based functionalities, for example a buyer user has cart functionalities(i.e. they can add products to their cart, clear and/or checkout the cart to order the product/s) to their disposal.
 
 ## 📈 **GitHub Stats**
 [My GitHub Stats](https://github.com/Thabani-max)
