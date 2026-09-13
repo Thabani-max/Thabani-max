@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a software developer focused on creating effic
 
 ## ⚒️ **Technologies & Tools**
 ![Python](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png)
-![Git](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkz_1LLnlNKBkSAHMLNnFZtRN4obb2QsD3V9remQeeuQ&s=10)
+![Git](https://img.icons8.com/?size=96&id=6Qr2kBSBemvq&format=png)
 ![CSS](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8PuJoXhHmLqm9thmbllxVPOo6m-LNEYMh4_g_teOuJA&s=10)
 ![HTML5](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA8lkuAi7c79dZIlnobyV3PvqUincwBic_fm0KfvzlgQ&s=10)
 ![Bootstrap](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8XcJ_rrPntUSmlza9oLLB_AJEK1rpPzbJdpCpyoxL5Q&s=10)
