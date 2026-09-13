@@ -5,7 +5,7 @@
 Welcome to my GitHub profile! I'm a software developer focused on creating efficient, user-centric applications. My core interest lies in back-end development, with a continuous drive to learn and adopt emerging tools and frameworks.
 
 ## ⚒️ **Technologies & Tools**
-![Python](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png)
+![Python](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png?h=20&w=20)
 ![Git](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkz_1LLnlNKBkSAHMLNnFZtRN4obb2QsD3V9remQeeuQ&s=10)
 ![CSS](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8PuJoXhHmLqm9thmbllxVPOo6m-LNEYMh4_g_teOuJA&s=10)
 ![HTML5](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA8lkuAi7c79dZIlnobyV3PvqUincwBic_fm0KfvzlgQ&s=10)
