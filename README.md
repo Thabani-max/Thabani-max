@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a software developer focused on creating effic
 ![HTML5](https://img.icons8.com/?size=96&id=7hA5Ny9rDAmV&format=png)
 ![Bootstrap](https://img.icons8.com/?size=96&id=PndQWK6M1Hjo&format=png)
 ![Docker](https://img.icons8.com/?size=96&id=22813&format=png)
-![sphinx](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNxacIKYwfnwuR3gC6_NYPk41LBtQQ7UPg-WhIULgaww&s=10)
+![sphinx](https://avatars.githubusercontent.com/u/9928167?s=96&v=4)
 ![Django](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC2zwjbNyPZOOgDEyLJejganRnySCMtT5cVe_wlJzj2g&s=10)
 ![MySQL](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq_ztjEwEqbPesLGzbdmDnacC3W6A0rjpxAHnB8LUi0A&s=10)
 ![VSCode](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFCXQqyIvHzgP2znt6ifkqAPf1bg0bsj98GH9lzzlMvw&s)
